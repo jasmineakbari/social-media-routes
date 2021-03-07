@@ -17,7 +17,7 @@ const thoughtController = {
     },
 
     getThoughtById({ params }, res) {
-        Thought.findOne({ _id: params.id })
+        Thought.findOne({ _id: params.Id })
             .populate({
                 path: 'reactions',
                 select: '-__v'

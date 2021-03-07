@@ -55,11 +55,6 @@ const ThoughtSchema = new Schema(
     }
 );
 
-// virtual to track thoughtCount
-ThoughtSchema.virtual('reactionCount').get(function () {
-    return this.reactions.length;
-});
-
 const Thought = model('Thought', ThoughtSchema);
 
 module.exports = Thought;
