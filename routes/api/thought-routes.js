@@ -11,9 +11,7 @@ const { getAllThoughts,
 
 router
     .route('/')
-    .get(getAllThoughts);
-router
-    .route('/:userId')
+    .get(getAllThoughts)
     .post(addThought);
 
 router
