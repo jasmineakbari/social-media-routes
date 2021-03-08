@@ -1,3 +1,5 @@
+![js](./assets/images/javascriptBadge.svg)
+
 # social-network
 
 ## Description
