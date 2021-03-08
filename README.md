@@ -21,7 +21,7 @@ This is a the back end of a potential social media application. With Functionali
 
 Sample Post Route to add a user:
 
-![Sample API Request](./images/insomnia.PNG)
+![Sample API Request](./assets/images/insomnia.PNG)
 
 ## Contributing
 
