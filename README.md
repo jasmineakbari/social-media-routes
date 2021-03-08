@@ -1,4 +1,5 @@
-![js](./assets/images/javascriptBadge.svg) ![MIT](./assets/images/mitBadge.svg) ![NPM](./assets/images/nodeVersionBadge.svg)
+![js](./assets/images/javascriptBadge.svg) ![MIT](./assets/images/mitBadge.svg) 
+![NPM](./assets/images/nodeVersionBadge.1-brightgreen)
 
 # social-network
 
